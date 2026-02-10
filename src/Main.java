@@ -1,7 +1,7 @@
 /**
  * Main class with executions
  * @author Marcel Ebner
- * @version 2026-02-10-2026
+ * @version 2026-02-10
  */
 public class Main {
 

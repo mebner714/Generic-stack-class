@@ -1,7 +1,7 @@
 /**
  * Exception, when Stack is full
  * @author Marcel Ebner
- * @version 02-10-2026
+ * @version 2026-02-10
  */
 public class StackFullException extends RuntimeException {
 

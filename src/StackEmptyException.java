@@ -1,7 +1,7 @@
 /**
  * Exception, when Stack is empty
  * @author Marcel Ebner
- * @version 02-10-2026
+ * @version 2026-02-10
  */
 public class StackEmptyException extends RuntimeException {
 

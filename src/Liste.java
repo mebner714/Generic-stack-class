@@ -1,3 +1,9 @@
+/**
+ * Creates a list with Generics
+ * @param <T>
+ * @author Marcel Ebner
+ * @version 2026-02-10
+ */
 public class Liste<T> {
 
     // Array to store stack elements
